@@ -13,7 +13,7 @@ Welcome to my Github page! I am Shinn Thant and I am currently learning my backE
 #### 🌱 Things I am currently working on: 
 - Student
 - Taking online courses about Backend dev and already learned frontend
-- Business practices on [bi4 Group Spain](https://github.com/shinnthant2004) 🚀 *coming soon*
+- Business practices on (https://github.com/shinnthant2004) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
