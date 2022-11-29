@@ -2,7 +2,7 @@
 ### This is Shinn Thant
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shinnthant2004)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shinn-thant-b90533231/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](shinthantequi@gmail.com)
 
 Ask Me About Laravel Vue and currently learning React & Next!  
@@ -12,7 +12,6 @@ Ask Me About Laravel Vue and currently learning React & Next!
 
 #### 🌱 Things I am currently working on: 
 - Student
-- Taking online courses about Backend dev and already learned frontend
 - Business practices on (https://github.com/shinnthant2004) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
